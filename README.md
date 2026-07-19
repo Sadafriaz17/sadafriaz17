@@ -53,21 +53,12 @@ I'm a **Computer Science student** at the **University of Lahore** with a passio
 * AI Model Deployment
 * Large Language Models (LLMs)
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top Languages"/>
-</p>
 
 ## Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-* Email: YOUR_EMAIL
+* LinkedIn: www.linkedin.com/in/sadaf-riaz-3b0a41306
+
 
 ---
 
