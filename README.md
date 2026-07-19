@@ -35,6 +35,10 @@ Git • GitHub • VS Code • MySQL • SQL Server
 
 I'm committed to expanding my expertise in AI and software engineering by building impactful projects, contributing to open-source initiatives, and collaborating with developers who share a passion for innovation and continuous learning.
 
+## Contact me 
+
+linkedln: www.linkedin.com/in/sadaf-riaz-3b0a41306
+
 ---
 
 Thank you for visiting my profile. Feel free to explore my repositories and connect with me.
