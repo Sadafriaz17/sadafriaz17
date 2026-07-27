@@ -85,10 +85,10 @@ generation, vendor integration, and 3D destination previews.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sadaf-riaz&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadaf-riaz&layout=compact&theme=default&hide_border=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sadafriaz17&show_icons=true&theme=default&hide_border=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafriaz17&layout=compact&theme=default&hide_border=true&hide_title=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadaf-riaz&theme=default&hide_border=true" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafriaz17&theme=default&hide_border=true" alt="streak stats" />
 
 </div>
 
