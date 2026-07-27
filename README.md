@@ -8,7 +8,7 @@ Computer Science student at the University of Lahore, currently interning as an
 AI/ML Intern at NETSOL Technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadaf-riaz-3b0a41306)
-![Profile Views](https://komarev.com/ghpvc/?username=sadaf-riaz&style=flat-square&color=555555&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sadafriaz17&style=flat-square&color=555555&label=Profile+Views)
 
 </div>
 
@@ -91,9 +91,6 @@ generation, vendor integration, and 3D destination previews.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafriaz17&theme=default&hide_border=true" alt="streak stats" />
 
 </div>
-
-> Replace `sadaf-riaz` in the URLs above with your exact GitHub username so
-> these cards render your real data.
 
 <br>
 
