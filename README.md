@@ -165,6 +165,10 @@ generation, vendor integration, and 3D destination previews.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafriaz17&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF" alt="streak stats" />
 
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sadafriaz17&theme=tokyo-night&hide_border=true&bg_color=00000000&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF" alt="contribution graph" />
+
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
