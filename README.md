@@ -154,6 +154,22 @@ generation, vendor integration, and 3D destination previews.
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
+## &nbsp;🡆&nbsp; Collaborations
+
+<div align="center">
+
+| Project | Team | My Role |
+|---|---|---|
+| **RAG Chatbot Voice Pipeline** | Multi-person team project | Built the voice pipeline — `asr_service.py` (Groq Whisper STT) and `voice.py` (Kokoro TTS) |
+| **NEXVOY** (FYP) | Supervised by Muhammad Ahmad Zia, University of Lahore | AI/VR tour ecosystem — frontend, 3D scenes, and system design |
+| **Finance-Extract** | NETSOL Technologies, AI/ML team | LangGraph agent architecture, extraction & validation modules |
+
+<sub>🔗 Add teammates' GitHub handles here, e.g. <code>[@username](https://github.com/username)</code></sub>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 ## &nbsp;🡆&nbsp; GitHub Overview
 
 <div align="center">
