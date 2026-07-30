@@ -11,6 +11,9 @@ Computer Science student at the University of Lahore, currently interning as an
 <a href="https://www.linkedin.com/in/sadaf-riaz-3b0a41306">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://github.com/Sadafriaz17">
+<img src="https://img.shields.io/badge/GitHub-Follow-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6C63FF&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/sadafriaz17/readme" alt="profile views" />
 </p>
 
@@ -30,7 +33,7 @@ retrieval-augmented voice assistants, alongside full-stack development in
 <td width="50%" valign="top">
 
 **Currently**
-- 🎓 CS student, University of Lahore
+- 🎓 CS student, University of Lahore (7th semester, CGPA 3.88)
 - 🧪 AI/ML Intern @ NETSOL Technologies
 - 🖥️ Computer vision, OCR & document extraction pipelines
 
@@ -69,6 +72,7 @@ retrieval-augmented voice assistants, alongside full-stack development in
 <img src="https://img.shields.io/badge/YOLO-2D2A5A?style=flat-square&logo=yolo&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-2D2A5A?style=flat-square&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Gemini-2D2A5A?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-2D2A5A?style=flat-square&logo=langchain&logoColor=white" />
 
 <br><br>
 
@@ -112,7 +116,7 @@ retrieval-augmented voice assistants, alongside full-stack development in
 <tr>
 <td width="50%" valign="top">
 
-### GlowUp Tracker
+### 🧴 GlowUp Tracker
 Gradio-based computer vision application using a fine-tuned YOLOv8n model to
 detect acne in selfies and track skin progress over time.
 
@@ -121,7 +125,7 @@ detect acne in selfies and track skin progress over time.
 </td>
 <td width="50%" valign="top">
 
-### Finance-Extract
+### 💰 Finance-Extract
 FastAPI pipeline for financial document OCR and ratio extraction, built
 around a LangGraph agent architecture with extraction, validation, and
 evidence modules.
@@ -133,7 +137,7 @@ evidence modules.
 <tr>
 <td width="50%" valign="top">
 
-### RAG Chatbot Voice Pipeline
+### 🎙️ RAG Chatbot Voice Pipeline
 Multi-person RAG chatbot with a voice interface, using Groq Whisper for
 speech-to-text and Kokoro for text-to-speech.
 
@@ -142,7 +146,7 @@ speech-to-text and Kokoro for text-to-speech.
 </td>
 <td width="50%" valign="top">
 
-### NEXVOY — Final Year Project
+### ✈️ NEXVOY — Final Year Project
 AI and VR-based sustainable tour management ecosystem with smart package
 generation, vendor integration, and 3D destination previews.
 
@@ -150,57 +154,36 @@ generation, vendor integration, and 3D destination previews.
 
 </td>
 </tr>
-</table>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## &nbsp;🡆&nbsp; Collaborations
-
-<div align="center">
-
-| Project | Team | My Role |
-|---|---|---|
-| **RAG Chatbot Voice Pipeline** | Multi-person team project | Built the voice pipeline — `asr_service.py` (Groq Whisper STT) and `voice.py` (Kokoro TTS) |
-| **NEXVOY** (FYP) | Supervised by Muhammad Ahmad Zia, University of Lahore | AI/VR tour ecosystem — frontend, 3D scenes, and system design |
-| **Finance-Extract** | NETSOL Technologies, AI/ML team | LangGraph agent architecture, extraction & validation modules |
-
-<sub>🔗 Add teammates' GitHub handles here, e.g. <code>[@username](https://github.com/username)</code></sub>
-
-<br><br>
-
-**Contributor Graphs** &nbsp;<sub>(live, pulled directly from GitHub)</sub>
-
-<table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**RAG_chatbot**
-<br>
-<a href="https://github.com/sadafriaz17/RAG_chatbot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=sadafriaz17/RAG_chatbot" />
-</a>
+### 🗄️ Text_to_SQL
+Natural-language-to-SQL translation tool, built collaboratively with two
+teammates.
 
-</td>
-<td align="center" width="33%">
-
-**NEXVOY**
-<br>
-<a href="https://github.com/sadafriaz17/NEXVOY/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=sadafriaz17/NEXVOY" />
-</a>
+`Python` `SQL`
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**Finance-Extract**
-<br>
-<a href="https://github.com/sadafriaz17/Finance-Extract/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=sadafriaz17/Finance-Extract" />
-</a>
+### 🛒 Shopping-Cart
+Web-based shopping cart application covering core e-commerce flows.
+
+`JavaScript` `HTML` `CSS`
 
 </td>
 </tr>
 </table>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## &nbsp;🡆&nbsp; Collaboration Graph
+
+<div align="center">
+
+<img width="100%" src="./assets/collaboration-graph.svg" alt="GitHub collaboration graph" />
+
+<sub>Generated from live public contributor data via the GitHub API. Update the SVG as new collaborative repos go public.</sub>
 
 </div>
 
@@ -231,6 +214,9 @@ generation, vendor integration, and 3D destination previews.
 
 <a href="https://www.linkedin.com/in/sadaf-riaz-3b0a41306">
 <img src="https://img.shields.io/badge/LinkedIn-Sadaf%20Riaz-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Sadafriaz17">
+<img src="https://img.shields.io/badge/GitHub-Sadafriaz17-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
