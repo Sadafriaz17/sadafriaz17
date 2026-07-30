@@ -166,6 +166,42 @@ generation, vendor integration, and 3D destination previews.
 
 <sub>🔗 Add teammates' GitHub handles here, e.g. <code>[@username](https://github.com/username)</code></sub>
 
+<br><br>
+
+**Contributor Graphs** &nbsp;<sub>(live, pulled directly from GitHub)</sub>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**RAG_chatbot**
+<br>
+<a href="https://github.com/sadafriaz17/RAG_chatbot/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=sadafriaz17/RAG_chatbot" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+**NEXVOY**
+<br>
+<a href="https://github.com/sadafriaz17/NEXVOY/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=sadafriaz17/NEXVOY" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+**Finance-Extract**
+<br>
+<a href="https://github.com/sadafriaz17/Finance-Extract/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=sadafriaz17/Finance-Extract" />
+</a>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
