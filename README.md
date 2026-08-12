@@ -198,7 +198,7 @@ Web-based shopping cart application covering core e-commerce flows.
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafriaz17&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=sadafriaz17&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF" alt="streak stats" />
 
 <br>
 
