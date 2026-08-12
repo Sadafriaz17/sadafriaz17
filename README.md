@@ -177,18 +177,6 @@ Web-based shopping cart application covering core e-commerce flows.
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-## &nbsp;🡆&nbsp; Collaboration Graph
-
-<div align="center">
-
-<img width="100%" src="./assets/collaboration-graph.svg" alt="GitHub collaboration graph" />
-
-<sub>Generated from live public contributor data via the GitHub API. Update the SVG as new collaborative repos go public.</sub>
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
 ## &nbsp;🡆&nbsp; GitHub Overview
 
 <div align="center">
@@ -198,7 +186,7 @@ Web-based shopping cart application covering core e-commerce flows.
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=sadafriaz17&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=sadafriaz17&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF" alt="streak stats" />
 
 <br>
 
