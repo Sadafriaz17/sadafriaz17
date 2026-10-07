@@ -180,13 +180,13 @@ Web-based shopping cart application covering core e-commerce flows.
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-<img height="165" alt="Top languages" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img alt="Followers" src="https://img.shields.io/github/followers/Sadafriaz17?style=for-the-badge&color=6C63FF&logo=github&logoColor=white" />
+<img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2D2A5A&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSadafriaz17" />
+<img alt="Member since" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=403C7A&label=Joined&query=created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSadafriaz17" />
 
-<br>
+<br><br>
 
-<img height="165" alt="Repos per language" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-<img height="165" alt="Productive time" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
+<img width="100%" alt="GitHub contribution graph" src="https://ghchart.rshah.org/6C63FF/Sadafriaz17" />
 
 </div>
 
