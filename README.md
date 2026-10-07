@@ -145,9 +145,6 @@ generation, vendor integration, and 3D destination previews.
 
 `ASP.NET MVC` `Three.js` `AI`
 
-**Built with:**
-[Hadeed Jalani](https://github.com/HADEED_USERNAME) ·
-[Maryam Noor](https://github.com/MARYAM_USERNAME)
 
 </td>
 </tr>
@@ -160,9 +157,6 @@ teammates.
 
 `Python` `SQL`
 
-**Built with:**
-[Teammate 1](https://github.com/TEAMMATE1_USERNAME) ·
-[Teammate 2](https://github.com/TEAMMATE2_USERNAME)
 
 </td>
 <td width="50%" valign="top">
