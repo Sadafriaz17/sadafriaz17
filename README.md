@@ -182,8 +182,10 @@ Web-based shopping cart application covering core e-commerce flows.
 
 <div align="center">
 
-<!-- EDIT THE NUMBERS BELOW: copy them from your GitHub profile ("N contributions in the last year") -->
-<img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions%20(last%20year)-000-6C63FF?style=for-the-badge" />
+<img alt="Total contributions, current streak and longest streak" src="https://streak-stats.demolab.com/?user=Sadafriaz17&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+
+<br>
+
 <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2D2A5A&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSadafriaz17" />
 
 <br><br>
