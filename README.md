@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2D2A5A&height=180&section=header&text=Sadaf%20Riaz&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20in%20Training%20%E2%80%94%20Computer%20Vision%20%26%20Applied%20Deep%20Learning&descAlign=50&descAlignY=58&descSize=18" />
+<img width="100%" alt="Sadaf Riaz banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2D2A5A&height=180&section=header&text=Sadaf%20Riaz&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20in%20Training%20%E2%80%94%20Computer%20Vision%20%26%20Applied%20Deep%20Learning&descAlign=50&descAlignY=58&descSize=18" />
 
 <br>
 
@@ -8,22 +8,18 @@ Computer Science student at the University of Lahore, currently interning as an
 **AI/ML Intern at NETSOL Technologies**.
 
 <p>
-<a href="https://www.linkedin.com/in/sadaf-riaz-3b0a41306">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Sadafriaz17">
-<img src="https://img.shields.io/badge/GitHub-Follow-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6C63FF&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/sadafriaz17/readme" alt="profile views" />
+  <a href="https://www.linkedin.com/in/sadaf-riaz-3b0a41306"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge" /></a>
+  <a href="https://github.com/Sadafriaz17"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-6C63FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sadafriaz17&style=for-the-badge&color=6C63FF&label=Profile+Views" />
 </p>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+---
 
-## &nbsp;🡆&nbsp; About
+## About
 
-I build applied AI systems — from computer vision models to full pipelines that
+I build applied AI systems, from computer vision models to full pipelines that
 take them into production. My recent work spans object detection, OCR, and
 retrieval-augmented voice assistants, alongside full-stack development in
 .NET and FastAPI.
@@ -48,58 +44,54 @@ retrieval-augmented voice assistants, alongside full-stack development in
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+---
 
-## &nbsp;🡆&nbsp; Technical Skills
+## Technical Skills
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-6C63FF?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-6C63FF?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-6C63FF?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-6C63FF?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-6C63FF?style=flat-square&logo=postgresql&logoColor=white" />
+**Languages**<br>
+<img alt="Python" src="https://img.shields.io/badge/Python-6C63FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C++-6C63FF?style=flat-square&logo=cplusplus&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-6C63FF?style=flat-square" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-6C63FF?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-6C63FF?style=flat-square&logo=postgresql&logoColor=white" />
 
 <br><br>
 
-**AI / Machine Learning**
-<br>
-<img src="https://img.shields.io/badge/PyTorch-2D2A5A?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-2D2A5A?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-2D2A5A?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-2D2A5A?style=flat-square&logo=yolo&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-2D2A5A?style=flat-square&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Gemini-2D2A5A?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-2D2A5A?style=flat-square&logo=langchain&logoColor=white" />
+**AI / Machine Learning**<br>
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2D2A5A?style=flat-square&logo=pytorch&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-2D2A5A?style=flat-square&logo=tensorflow&logoColor=white" />
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-2D2A5A?style=flat-square&logo=opencv&logoColor=white" />
+<img alt="YOLO" src="https://img.shields.io/badge/YOLO-2D2A5A?style=flat-square" />
+<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-2D2A5A?style=flat-square&logo=huggingface&logoColor=white" />
+<img alt="Google Gemini" src="https://img.shields.io/badge/Gemini-2D2A5A?style=flat-square&logo=googlegemini&logoColor=white" />
+<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-2D2A5A?style=flat-square&logo=langchain&logoColor=white" />
 
 <br><br>
 
-**Web Development**
-<br>
-<img src="https://img.shields.io/badge/React-403C7A?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET%20MVC-403C7A?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-403C7A?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-403C7A?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-403C7A?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-403C7A?style=flat-square&logo=bootstrap&logoColor=white" />
+**Web Development**<br>
+<img alt="React" src="https://img.shields.io/badge/React-403C7A?style=flat-square&logo=react&logoColor=white" />
+<img alt="ASP.NET MVC" src="https://img.shields.io/badge/ASP.NET%20MVC-403C7A?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-403C7A?style=flat-square&logo=fastapi&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-403C7A?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-403C7A?style=flat-square&logo=css3&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-403C7A?style=flat-square&logo=bootstrap&logoColor=white" />
 
 <br><br>
 
-**Tools & Platforms**
-<br>
-<img src="https://img.shields.io/badge/Git-1E1B3A?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-1E1B3A?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-1E1B3A?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-1E1B3A?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-1E1B3A?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+**Tools & Platforms**<br>
+<img alt="Git" src="https://img.shields.io/badge/Git-1E1B3A?style=flat-square&logo=git&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-1E1B3A?style=flat-square&logo=github&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-1E1B3A?style=flat-square" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-1E1B3A?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-1E1B3A?style=flat-square" />
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+---
 
-## &nbsp;🡆&nbsp; Current Focus
+## Current Focus
 
 | Area | Details |
 |---|---|
@@ -108,27 +100,26 @@ retrieval-augmented voice assistants, alongside full-stack development in
 | **Backend Development** | FastAPI pipelines, LangGraph agents |
 | **AI Model Deployment** | Taking trained models into working applications |
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+---
 
-## &nbsp;🡆&nbsp; Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧴 GlowUp Tracker
-Gradio-based computer vision application using a fine-tuned YOLOv8n model to
-detect acne in selfies and track skin progress over time.
+### 🧴 [GlowUp Tracker](https://github.com/Sadafriaz17/GlowUp-Tracker)
+Gradio app using a fine-tuned YOLOv8n model to detect acne in selfies and
+track skin progress over time.
 
 `YOLOv8` `Gradio` `OpenCV` `Python`
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Finance-Extract
-FastAPI pipeline for financial document OCR and ratio extraction, built
-around a LangGraph agent architecture with extraction, validation, and
-evidence modules.
+### 💰 [Finance-Extract](https://github.com/Sadafriaz17/Finance-Extract)
+FastAPI pipeline for financial document OCR and ratio extraction, built on a
+LangGraph agent with extraction, validation, and evidence modules.
 
 `FastAPI` `LangGraph` `PaddleOCR` `Python`
 
@@ -137,7 +128,7 @@ evidence modules.
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ RAG Chatbot Voice Pipeline
+### 🎙️ [RAG Chatbot Voice Pipeline](https://github.com/Sadafriaz17/RAG-Chatbot)
 Multi-person RAG chatbot with a voice interface, using Groq Whisper for
 speech-to-text and Kokoro for text-to-speech.
 
@@ -146,27 +137,35 @@ speech-to-text and Kokoro for text-to-speech.
 </td>
 <td width="50%" valign="top">
 
-### ✈️ NEXVOY — Final Year Project
+### ✈️ [NEXVOY](https://github.com/Sadafriaz17/NEXVOY) (Final Year Project)
 AI and VR-based sustainable tour management ecosystem with smart package
 generation, vendor integration, and 3D destination previews.
 
 `ASP.NET MVC` `Three.js` `AI`
+
+**Built with:**
+[Hadeed Jalani](https://github.com/HADEED_USERNAME) ·
+[Maryam Noor](https://github.com/MARYAM_USERNAME)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ Text_to_SQL
+### 🗄️ [Text_to_SQL](https://github.com/Sadafriaz17/Text_to_SQL)
 Natural-language-to-SQL translation tool, built collaboratively with two
 teammates.
 
 `Python` `SQL`
 
+**Built with:**
+[Teammate 1](https://github.com/TEAMMATE1_USERNAME) ·
+[Teammate 2](https://github.com/TEAMMATE2_USERNAME)
+
 </td>
 <td width="50%" valign="top">
 
-### 🛒 Shopping-Cart
+### 🛒 [Shopping-Cart](https://github.com/Sadafriaz17/Shopping-Cart)
 Web-based shopping cart application covering core e-commerce flows.
 
 `JavaScript` `HTML` `CSS`
@@ -175,40 +174,33 @@ Web-based shopping cart application covering core e-commerce flows.
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+---
 
-## &nbsp;🡆&nbsp; GitHub Overview
+## GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sadafriaz17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafriaz17&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF" />
+<img height="165" alt="GitHub stats" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="165" alt="Top languages" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=sadafriaz17&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF" alt="streak stats" />
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sadafriaz17&theme=tokyo-night&hide_border=true&bg_color=00000000&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF" alt="contribution graph" />
+<img height="165" alt="Repos per language" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img height="165" alt="Productive time" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+---
 
 <div align="center">
 
-## &nbsp;🡆&nbsp; Contact
+## Contact
 
-<a href="https://www.linkedin.com/in/sadaf-riaz-3b0a41306">
-<img src="https://img.shields.io/badge/LinkedIn-Sadaf%20Riaz-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Sadafriaz17">
-<img src="https://img.shields.io/badge/GitHub-Sadafriaz17-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/sadaf-riaz-3b0a41306"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sadaf%20Riaz-6C63FF?style=for-the-badge" /></a>
+<a href="https://github.com/Sadafriaz17"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sadafriaz17-6C63FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br><br>
 
-<sub>Thank you for visiting — feel free to explore my repositories.</sub>
+<sub>Thank you for visiting. Feel free to explore my repositories.</sub>
 
 </div>
